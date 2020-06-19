@@ -1,2 +1,2 @@
 # digital-cep
-PHP studies - Composer dependence
+PHP studies - Composer - Library
