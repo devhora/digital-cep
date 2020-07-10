@@ -17,7 +17,7 @@
             "Search": "src/"
         },
         "psr-4":{
-            "heitordahoracf\\DigitalCep\\": "src/"
+            "Devhora\\DigitalCep\\": "src/"
         }
     }
 }

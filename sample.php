@@ -3,7 +3,7 @@
 require_once "vendor/autoload.php";
 
 
-use \heitordahoracf\DigitalCep\Search;
+use \Devhora\DigitalCep\Search;
 
 $busca = new Search;
 

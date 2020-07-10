@@ -1,6 +1,6 @@
 <?php
 
-namespace heitordahoracf\DigitalCep;
+namespace Devhora\DigitalCep;
 
 class Search{
 
